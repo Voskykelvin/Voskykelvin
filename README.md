@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <h1 align="center">👋 Hi there, I'm Kelvin Odhiambo</h1>
-<p align="center"><em>A passionate ALX Software Engineering Learner | Junior Developer | Problem Solver | Lifelong Learner</em></p>
+<p align="center"><em>Data Scientist | Junior Developer | Automations | Lifelong Learner</em></p>
 
 ---
 
 ## About Me
 
-I am a dedicated learner enrolled in the **ALX Software Engineering Program**. My journey into software engineering began with a simple fascination: how a few lines of code could power ideas that reach the world. I'm passionate about building efficient, impactful, and user-friendly web applications. What inspires me is the possibility of using technology to solve real-world problems and create a better future.
+My journey into software engineering began with a simple fascination: how a few lines of code could power ideas that reach the world. I'm passionate about building efficient, impactful, and user-friendly web applications. What inspires me is the possibility of using technology to solve real-world problems and create a better future.
 
 **Vision:** To become a versatile developer capable of creating scalable and sustainable solutions.  
 **Interest Areas:** Web development, open-source collaboration, and automation.  
