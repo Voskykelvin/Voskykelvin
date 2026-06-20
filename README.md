@@ -1,58 +1,56 @@
-## Hi there 👋
-
-<h1 align="center">👋 Hi there, I'm Kelvin Odhiambo</h1>
-<p align="center"><em>Data Scientist | Junior Developer | Automations | Lifelong Learner</em></p>
+<h1 align="center">Hi, I'm Kelvin Odhiambo </h1>
+<p align="center">Web Administrator &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Nairobi, Kenya</p>
 
 ---
 
 ## About Me
 
-My journey into software engineering began with a simple fascination: how a few lines of code could power ideas that reach the world. I'm passionate about building efficient, impactful, and user-friendly web applications. What inspires me is the possibility of using technology to solve real-world problems and create a better future.
+I build and manage websites, stage, analyse and visualize data. I enjoy the full picture — from setting up a server to making sure the site is fast, secure, and easy to use.
 
-**Vision:** To become a versatile developer capable of creating scalable and sustainable solutions.  
-**Interest Areas:** Web development, open-source collaboration, and automation.  
-**Goal:** To work on full-stack applications, collaborative open-source projects, and innovative software tools that improve lives.
+I built **PulseToob** from scratch: a full-stack content platform with its own backend, database, media system, and admin dashboard. It is live at [pulsetoob.com](https://pulsetoob.com). I also managed client websites at Klarecon Ltd, an international company based in Tel Aviv — handling code reviews, uptime monitoring, SEO, content updates, and feature planning.
+
+Outside of web work, I build tools that solve real problems, including a logistics platform for Africa and a church event planning site.
 
 ---
 
 ## Featured Projects
 
-Here are some of the projects I’m most proud of:
-
-| <u><b>Project</u></b> |<u><b> Description</u></b>                         | <u><b>Tech Stack</u></b> | <u><b>Links</u></b>                      |
-|--------               |-------------                                      |------------              |-------                     |
-| **WeatherApp**        | A clean, responsive weather forecast tool         | HTML, CSS, JS, API  | [Repo](#) • [Live Demo](#) |
-| **TaskTracker**       | A simple task management tool with CRUD features  | React, Firebase     | [Repo](#) • [Live Demo](#) |
-| **Portfolio Website** | My personal developer portfolio                   | HTML, SCSS, JS      | [Repo](#) • [Live Demo](#) |
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **PulseToob CMS** | A full-stack content and blogging platform with an admin dashboard, media uploads, and user login | Next.js, Express, PostgreSQL, Cloudinary, Vercel, Render | [Repo](https://github.com/Voskykelvin/pulsetoob-cms) • [Live](https://pulsetoob.com) |
+| **iTruck** | A logistics platform built to improve how trucks and cargo are managed in Africa | JavaScript | [Repo](https://github.com/Voskykelvin/iTruck) |
+| **Friends Call** | An event planning site for a church day out — built and deployed in days | Next.js, Vercel | [Repo](https://github.com/Voskykelvin/friends-call) • [Live](https://friends-call.vercel.app) |
+| **KM Insights** | A data insights tool | _(see repo)_ | [Repo](https://github.com/Voskykelvin/km-insights) |
 
 ---
 
 ## Skills
 
-- Languages: **Python**, **JavaScript**, **HTML5**, **CSS3**, **SQL**
-- Frameworks/Libraries: **React**, **Flask**, **Bootstrap**, **Tailwind**
-- Tools & Platforms: **Git**, **GitHub**, **VS Code**, **Linux**
-- Soft Skills: Strong communicator, quick learner, proactive collaborator
+**Web & CMS:** WordPress, HTML5, CSS3, Next.js, JavaScript, TypeScript  
+**Backend:** Node.js, Express.js, PostgreSQL, Sequelize ORM, RESTful APIs  
+**Hosting & Deployment:** Vercel, Render, custom domains, SSL, DNS, CI/CD  
+**Security:** JWT authentication, CORS, rate limiting, environment configuration  
+**Analytics & SEO:** Google Analytics, metadata management, site performance  
+**Tools:** Git, GitHub, VS Code, Google Workspace
 
 ---
 
 ## Certifications
 
-- **ALX Professional Foundations Certificate**  
-  *Credential earned for completing a rigorous training in problem-solving, communication, remote work, and technical fundamentals.*
+**ALX Professional Foundations Certificate**  
+Problem-solving, communication, remote work, and technical fundamentals.
+**Data Science LuxDEV HQ**
+Python, Advanced Excel, Power bi,Machine Learning
 
 ---
 
-## Let's Connect!
+## Get in Touch
 
-I'm always open to networking, collaboration, or new opportunities. Let’s connect and build something amazing together.
 **Email:** kelvinvosky2@gmail.com  
-**Location:** Nairobi, Kenya  
 **LinkedIn:** [linkedin.com/in/kelvin-odhiambo-995b44144](https://www.linkedin.com/in/kelvin-odhiambo-995b44144/)  
-**Portfolio:** Coming soon...
+**Website:** [pulsetoob.com](https://pulsetoob.com)  
+**Location:** Nairobi, Kenya
 
 ---
 
-<p align="center">
-  <em>"Code is not just syntax—it's a tool for shaping the world."</em>
-</p>
+<p align="center"><em>"Build it. Ship it. Keep it running."</em></p>
